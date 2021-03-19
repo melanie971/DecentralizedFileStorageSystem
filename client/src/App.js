@@ -11,7 +11,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import { Table } from 'reactstrap';
 import fileReaderPullStream from 'pull-file-reader';
 import ipfs from "./utils/ipfs";
-import Moment from "moment"; //in the tuto it's called react-moment.
+import Moment from "react-moment"; //in the tuto it's called react-moment.
 import "./App.css";
 
 class App extends Component {
